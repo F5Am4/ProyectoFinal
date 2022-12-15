@@ -1,0 +1,29 @@
+@import url('https://developers.google.com/fonts/docs/getting_started');
+
+*{
+    background-color: rgb(200, 230, 220);
+    font-family: sans-serif;
+}
+
+header {
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(3,20%);
+}
+
+input{
+    width: 250px;
+    height: 10%;
+    margin-top: 20%;
+    border: 0.5px solid;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+.imagenes img{
+    width: 80px;
+}
+
+@media screen {
+    
+}
