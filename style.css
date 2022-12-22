@@ -6,7 +6,7 @@
 }
 
 header {
-    align-items: center;
+    align-items: center, auto;
     display: grid;
     grid-template-columns: repeat(3,20%);
 }
