@@ -65,3 +65,9 @@ nav a:hover{
     color: #fff;
 }
 
+input{
+    align-items: center;
+    width: 1300px;
+    height: 35px;
+    background-color: #fff;
+}
