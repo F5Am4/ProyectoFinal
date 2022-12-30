@@ -85,7 +85,7 @@ nav a:hover{
 }
 
 input{
-    display: flex;
+    display: flex-start;
     border-radius: 35px;
     border-bottom: .5em;
     border-color: rgb(173, 165, 165);
