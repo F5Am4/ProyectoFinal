@@ -75,12 +75,8 @@ nav a:hover{
 }
 
 input{
-    display: flex-start;
-    border-radius: 35px;
-    border-bottom: .5em;
-    border-color: rgb(173, 165, 165);
     align-items: center;
     width: 1300px;
     height: 35px;
-    background-color: rgb(172, 167, 167);
+    background-color: #fff;
 }
